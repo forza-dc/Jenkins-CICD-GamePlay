@@ -1,10 +1,9 @@
-# Jenkins-CI/CD SuperMario GamePlay
+# Super Mario Bros meets Ansible, Jenkins, and Kubernetes
 
 ![image](https://github.com/forza-dc/Jenkins-CICD-GamePlay/assets/37484962/76f1333f-2381-4da9-a874-2986c9022b0c)
 
 This project uses Ansible, Jenkins, AWS EKS to run a version of the popular Super Mario game.
 
-Disclaimer:
 
 
 Ansible Playbook for Jenkins and EC2 Provisioning
