@@ -1,5 +1,8 @@
 # Jenkins-CICD-GamePlay
 
+![image](https://github.com/forza-dc/Jenkins-CICD-GamePlay/assets/37484962/76f1333f-2381-4da9-a874-2986c9022b0c)
+
+
 Ansible Playbook for Jenkins and EC2 Provisioning
 This folder contains Ansible scripts for automating the installation of Jenkins and provisioning an EC2 instance with a specified security group.
 
