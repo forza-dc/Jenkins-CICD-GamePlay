@@ -44,7 +44,6 @@ By using these scripts, you can automate the installation of Jenkins and provisi
 
 
 
-Disclaimer:
 
 Disclaimer:
 
